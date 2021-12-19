@@ -1,4 +1,5 @@
-module.exports={
-    getStores :require('./getStores'),
-    searchStores:require('./searchhStores')
-}
+module.exports = {
+  getStores: require("./getStores"),
+  searchStores: require("./searchhStores"),
+  getNearbyStore: require("./getNearbyStore"),
+};
